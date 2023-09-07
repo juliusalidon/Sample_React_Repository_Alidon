@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Alidon/static/css/main.7eebc124.css",
+    "main.js": "/Sample_React_Repository_Alidon/static/js/main.ef77a1a2.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_Alidon/static/js/787.eed000a1.chunk.js",
+    "static/media/1st.jpg": "/Sample_React_Repository_Alidon/static/media/1st.9d53718d831b5b8a8b50.jpg",
+    "static/media/3rd.jpg": "/Sample_React_Repository_Alidon/static/media/3rd.73bb710399b95183614a.jpg",
+    "static/media/5th.jpg": "/Sample_React_Repository_Alidon/static/media/5th.adb0db347a5b4810fe12.jpg",
+    "static/media/4th.jpg": "/Sample_React_Repository_Alidon/static/media/4th.a6b3d17deacbb170aeed.jpg",
+    "static/media/2nd.jpg": "/Sample_React_Repository_Alidon/static/media/2nd.1aaf5eb7a52437587c8e.jpg",
+    "static/media/7th.jpg": "/Sample_React_Repository_Alidon/static/media/7th.233ff734714250cdc51a.jpg",
+    "static/media/6th.jpg": "/Sample_React_Repository_Alidon/static/media/6th.a87b7e282f48853770cd.jpg",
+    "index.html": "/Sample_React_Repository_Alidon/index.html",
+    "main.7eebc124.css.map": "/Sample_React_Repository_Alidon/static/css/main.7eebc124.css.map",
+    "main.ef77a1a2.js.map": "/Sample_React_Repository_Alidon/static/js/main.ef77a1a2.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_Alidon/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.ef77a1a2.js"
+  ]
+}
