@@ -1,5 +1,12 @@
 import {Button, Card} from 'react-bootstrap';
+import {Link} from 'react-router-dom';
+
 const GridItems = (props) => {
+    let information = {
+        name: props.name,
+        image: props.imageFile,
+        desc: props.desc
+    };
     return ( 
         <>
             <div className="col-4">
@@ -8,9 +15,13 @@ const GridItems = (props) => {
                     <Card.Body>
                         <Card.Title>{props.name}</Card.Title>
                         <Card.Text>
-                        {props.desc}
+                        
                         </Card.Text>
-                    <Button variant="warning">Go somewhere</Button>
+                    <Button variant="warning">
+                       <Link to="/Sample_React_Repository_Alidon/SinglePage" state={information}>
+                            Go somewhere
+                       </Link>
+                    </Button>
                     </Card.Body>
                 </Card>
           </div>

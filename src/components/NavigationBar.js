@@ -5,8 +5,8 @@ import Container from "react-bootstrap/Container";
 const NavigationBar = () => {
     return (
         <>
-        <Navbar className="bg-warning">
-                <Navbar.Brand>Anime List</Navbar.Brand>
+        <Navbar className="bg-warning ">
+                <Navbar.Brand className="text-danger p-3"><h1>Anime List</h1></Navbar.Brand>
         </Navbar>
         </>
     );
